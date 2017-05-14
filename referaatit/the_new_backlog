@@ -1,0 +1,5 @@
+Tässä esitellään vaihtoehtoinen tapa tehdä backlog. Kirjoittaja ei pidä tavallisesta "litteästä" backlogista.
+  Tavallisessa backlogissa häiritsee se, että user storyista ei ilmene niiden konteksti. Kehittäjät unohtavat helposti, mitä toiminnallisuutta ovat edes koodaamassa.
+  Ratkaisuksi esitellään "user story map", jossa on näkyvillä projektin selkäranka. Map on sellaisessa muodossa, että sitä tutkimalla voi helposti kertoa projektista ja sen käyttäjistä olennaisia asioita.
+
+http://jpattonassociates.com/the-new-backlog/
